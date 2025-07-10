@@ -1,0 +1,15 @@
+D:\VS\ZyperWinHub++\ZyperWinHub++\bin\Debug\ZyperWinHub++.exe.config
+D:\VS\ZyperWinHub++\ZyperWinHub++\bin\Debug\ZyperWinHub++.exe
+D:\VS\ZyperWinHub++\ZyperWinHub++\bin\Debug\ZyperWinHub++.pdb
+D:\VS\ZyperWinHub++\ZyperWinHub++\bin\Debug\SunnyUI.Common.dll
+D:\VS\ZyperWinHub++\ZyperWinHub++\bin\Debug\SunnyUI.dll
+D:\VS\ZyperWinHub++\ZyperWinHub++\obj\Debug\ZyperWinHub++.csproj.AssemblyReference.cache
+D:\VS\ZyperWinHub++\ZyperWinHub++\obj\Debug\ZyperWinHub__.aboutapp.resources
+D:\VS\ZyperWinHub++\ZyperWinHub++\obj\Debug\ZyperWinHub__.MainWindow.resources
+D:\VS\ZyperWinHub++\ZyperWinHub++\obj\Debug\ZyperWinHub__.Properties.Resources.resources
+D:\VS\ZyperWinHub++\ZyperWinHub++\obj\Debug\ZyperWinHub++.csproj.GenerateResource.cache
+D:\VS\ZyperWinHub++\ZyperWinHub++\obj\Debug\ZyperWinHub++.csproj.CoreCompileInputs.cache
+D:\VS\ZyperWinHub++\ZyperWinHub++\obj\Debug\ZyperWin.00865B77.Up2Date
+D:\VS\ZyperWinHub++\ZyperWinHub++\obj\Debug\ZyperWinHub++.exe
+D:\VS\ZyperWinHub++\ZyperWinHub++\obj\Debug\ZyperWinHub++.pdb
+D:\VS\ZyperWinHub++\ZyperWinHub++\obj\Debug\ZyperWinHub++.exe.config
