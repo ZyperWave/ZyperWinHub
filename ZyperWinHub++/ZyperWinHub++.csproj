@@ -88,20 +88,20 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
-      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
       <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
     </EmbeddedResource>
-    <Compile Include="Properties\Resources.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DependentUpon>Resources.resx</DependentUpon>
-      <DesignTime>True</DesignTime>
-    </Compile>
     <None Include="packages.config" />
     <None Include="Properties\app.manifest" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
     </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
     <Compile Include="Properties\Settings.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Settings.settings</DependentUpon>
@@ -114,11 +114,9 @@
   <ItemGroup>
     <None Include="Resources\ %281%29.png" />
     <None Include="Resources\ %282%29.png" />
-    <None Include="Resources\ %283%29.png" />
     <None Include="Resources\ %284%29.png" />
     <None Include="Resources\ %285%29.png" />
     <None Include="Resources\ %286%29.png" />
-    <None Include="Resources\ %287%29.png" />
     <None Include="Resources\ %288%29.png" />
     <None Include="Resources\ %289%29.png" />
     <None Include="Resources\屏幕截图 2025-07-10 183745.png" />
@@ -126,8 +124,8 @@
     <None Include="Resources\屏幕截图 2025-07-10 224111.png" />
     <None Include="Resources\5 %282%29.png" />
     <None Include="Resources\图标15.png" />
-    <None Include="Resources\vw.png" />
     <None Include="Resources\1i.png" />
+    <None Include="Resources\8.png" />
     <Content Include="ZW.ico" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

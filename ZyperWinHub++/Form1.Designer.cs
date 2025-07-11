@@ -102,11 +102,13 @@
             // label2
             // 
             resources.ApplyResources(this.label2, "label2");
+            this.label2.ForeColor = System.Drawing.Color.Black;
             this.label2.Name = "label2";
             // 
             // label1
             // 
             resources.ApplyResources(this.label1, "label1");
+            this.label1.ForeColor = System.Drawing.Color.Black;
             this.label1.Name = "label1";
             // 
             // pictureBox2
@@ -140,6 +142,7 @@
             // label5
             // 
             resources.ApplyResources(this.label5, "label5");
+            this.label5.ForeColor = System.Drawing.Color.Black;
             this.label5.Name = "label5";
             // 
             // pictureBox5
@@ -153,11 +156,13 @@
             // label3
             // 
             resources.ApplyResources(this.label3, "label3");
+            this.label3.ForeColor = System.Drawing.Color.Black;
             this.label3.Name = "label3";
             // 
             // label4
             // 
             resources.ApplyResources(this.label4, "label4");
+            this.label4.ForeColor = System.Drawing.Color.Black;
             this.label4.Name = "label4";
             // 
             // pictureBox3
@@ -170,7 +175,7 @@
             // 
             // pictureBox4
             // 
-            this.pictureBox4.Image = global::ZyperWinHub__.Properties.Resources.@__7_;
+            this.pictureBox4.Image = global::ZyperWinHub__.Properties.Resources._8;
             resources.ApplyResources(this.pictureBox4, "pictureBox4");
             this.pictureBox4.Name = "pictureBox4";
             this.pictureBox4.TabStop = false;
@@ -189,11 +194,13 @@
             // label7
             // 
             resources.ApplyResources(this.label7, "label7");
+            this.label7.ForeColor = System.Drawing.Color.Black;
             this.label7.Name = "label7";
             // 
             // label8
             // 
             resources.ApplyResources(this.label8, "label8");
+            this.label8.ForeColor = System.Drawing.Color.Black;
             this.label8.Name = "label8";
             // 
             // pictureBox7
@@ -227,11 +234,12 @@
             // label9
             // 
             resources.ApplyResources(this.label9, "label9");
+            this.label9.ForeColor = System.Drawing.Color.Black;
             this.label9.Name = "label9";
             // 
             // pictureBox9
             // 
-            this.pictureBox9.Image = global::ZyperWinHub__.Properties.Resources.@__3_;
+            this.pictureBox9.Image = global::ZyperWinHub__.Properties.Resources.@__1_;
             resources.ApplyResources(this.pictureBox9, "pictureBox9");
             this.pictureBox9.Name = "pictureBox9";
             this.pictureBox9.TabStop = false;
@@ -240,11 +248,13 @@
             // label10
             // 
             resources.ApplyResources(this.label10, "label10");
+            this.label10.ForeColor = System.Drawing.Color.Black;
             this.label10.Name = "label10";
             // 
             // label11
             // 
             resources.ApplyResources(this.label11, "label11");
+            this.label11.ForeColor = System.Drawing.Color.Black;
             this.label11.Name = "label11";
             // 
             // pictureBox10
@@ -282,6 +292,7 @@
             // label14
             // 
             resources.ApplyResources(this.label14, "label14");
+            this.label14.ForeColor = System.Drawing.Color.Black;
             this.label14.Name = "label14";
             // 
             // pictureBox14
@@ -295,6 +306,7 @@
             // label6
             // 
             resources.ApplyResources(this.label6, "label6");
+            this.label6.ForeColor = System.Drawing.Color.Black;
             this.label6.Name = "label6";
             // 
             // pictureBox6
@@ -308,6 +320,7 @@
             // label12
             // 
             resources.ApplyResources(this.label12, "label12");
+            this.label12.ForeColor = System.Drawing.Color.Black;
             this.label12.Name = "label12";
             // 
             // pictureBox12
@@ -321,6 +334,7 @@
             // label15
             // 
             resources.ApplyResources(this.label15, "label15");
+            this.label15.ForeColor = System.Drawing.Color.Black;
             this.label15.Name = "label15";
             // 
             // pictureBox15
@@ -334,6 +348,7 @@
             // label13
             // 
             resources.ApplyResources(this.label13, "label13");
+            this.label13.ForeColor = System.Drawing.Color.Black;
             this.label13.Name = "label13";
             // 
             // pictureBox13

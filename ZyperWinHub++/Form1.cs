@@ -1,14 +1,6 @@
 ﻿using Sunny.UI;
 using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
 using System.Diagnostics;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using System.Windows.Forms;
 
 namespace ZyperWinHub__
 {
@@ -31,7 +23,7 @@ namespace ZyperWinHub__
 
         private void pictureBox4_Click(object sender, EventArgs e)
         {
-            Process.Start(".\\Tools\\Winhance\\Winhance.exe");
+            Process.Start(".\\Tools\\BoosterX\\BoosterX.exe");
         }
 
         private void pictureBox3_Click(object sender, EventArgs e)
@@ -66,7 +58,7 @@ namespace ZyperWinHub__
 
         private void pictureBox9_Click(object sender, EventArgs e)
         {
-            Process.Start(".\\Tools\\GodMode.{ED7BA470-8E54-465E-825C-99712043E01C}");
+            Process.Start(".\\Tools\\激活工具\\HEU_KMS_Activator.exe");
         }
 
         private void pictureBox13_Click(object sender, EventArgs e)
@@ -93,7 +85,7 @@ namespace ZyperWinHub__
 
         private void uiButton3_Click(object sender, EventArgs e)
         {
-            Process.Start("shutdown -r -t 1");
+            Process.Start(".\\Tools\\重启.bat");
         }
 
         private void pictureBox12_Click_1(object sender, EventArgs e)

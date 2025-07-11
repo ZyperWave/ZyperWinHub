@@ -83,16 +83,6 @@ namespace ZyperWinHub__.Properties {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap @__3_ {
-            get {
-                object obj = ResourceManager.GetObject(" (3)", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
         internal static System.Drawing.Bitmap @__4_ {
             get {
                 object obj = ResourceManager.GetObject(" (4)", resourceCulture);
@@ -116,16 +106,6 @@ namespace ZyperWinHub__.Properties {
         internal static System.Drawing.Bitmap @__6_ {
             get {
                 object obj = ResourceManager.GetObject(" (6)", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap @__7_ {
-            get {
-                object obj = ResourceManager.GetObject(" (7)", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -183,9 +163,9 @@ namespace ZyperWinHub__.Properties {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap vw {
+        internal static System.Drawing.Bitmap _8 {
             get {
-                object obj = ResourceManager.GetObject("vw", resourceCulture);
+                object obj = ResourceManager.GetObject("8", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -216,6 +196,16 @@ namespace ZyperWinHub__.Properties {
         internal static System.Drawing.Bitmap 屏幕截图_2025_07_10_224111 {
             get {
                 object obj = ResourceManager.GetObject("屏幕截图 2025-07-10 224111", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        internal static System.Drawing.Bitmap 屏幕截图_2025_07_11_153536 {
+            get {
+                object obj = ResourceManager.GetObject("屏幕截图 2025-07-11 153536", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

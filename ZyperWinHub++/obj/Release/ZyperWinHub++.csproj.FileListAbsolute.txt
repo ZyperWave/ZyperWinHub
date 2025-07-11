@@ -12,3 +12,4 @@ D:\VS\ZyperWinHub++\ZyperWinHub++\obj\Release\ZyperWinHub++.csproj.CoreCompileIn
 D:\VS\ZyperWinHub++\ZyperWinHub++\obj\Release\ZyperWin.00865B77.Up2Date
 D:\VS\ZyperWinHub++\ZyperWinHub++\obj\Release\ZyperWinHub++.exe
 D:\VS\ZyperWinHub++\ZyperWinHub++\obj\Release\ZyperWinHub++.pdb
+D:\VS\ZyperWinHub++\ZyperWinHub++\obj\Release\ZyperWinHub++.exe.config

@@ -121,49 +121,46 @@
   <data name=" (6)" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\ (6).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="2" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name=" (9)" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\ (9).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name=" (4)" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\ (4).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name=" (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\ (1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="屏幕截图 2025-07-10 183745" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\屏幕截图 2025-07-10 183745.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name=" (5)" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\ (5).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name=" (2)" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\ (2).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name=" (7)" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\ (7).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="vw" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\vw.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="5 (2)" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\5 (2).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name=" (8)" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\ (8).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="图标15" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\图标15.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="屏幕截图 2025-07-10 224111" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\屏幕截图 2025-07-10 224111.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name=" (3)" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\ (3).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="屏幕截图 2025-07-10 183745" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\屏幕截图 2025-07-10 183745.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="图标15" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\图标15.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\8.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name=" (4)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ (4).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="1i" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\1i.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="5 (2)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\5 (2).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name=" (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ (1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name=" (8)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ (8).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name=" (2)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ (2).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name=" (5)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ (5).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="屏幕截图 2025-07-11 153536" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\屏幕截图 2025-07-11 153536.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>
